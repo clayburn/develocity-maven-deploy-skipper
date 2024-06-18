@@ -1,0 +1,8 @@
+<develocity>
+  <server>
+    <url>https://ge.solutions-team.gradle.com</url>
+  </server>
+  <buildScan>
+    <publishing><onlyIf>false</onlyIf></publishing>
+  </buildScan>
+</develocity>
